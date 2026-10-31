@@ -3,7 +3,7 @@
 
 <!-- Teks mengetik animasi -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=500&lines=Web+Developer;Mahasiswa+Pendidikan+Teknologi+Informasi;Suka+belajar+hal+baru!" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Backend+Developer;Mahasiswa+Pendidikan+Teknologi+Informasi;Suka+belajar+hal+baru!" alt="Typing SVG" />
 </p>
 
 ## 👋 Tentang Saya
@@ -14,14 +14,17 @@
 
 ## 🛠️ Tech Stack
 <p>
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,python,git,github" />
+  <img src="https://skillicons.dev/icons?i=kotlin,nodejs,express,js,python,html,css,react,git,github" />
 </p>
 
 ## 📊 Statistik GitHub
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=USERNAME&show_icons=true&theme=tokyonight" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=USERNAME&layout=compact&theme=tokyonight" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=ismailtgr&show_icons=true&theme=tokyonight" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ismailtgr&layout=compact&theme=tokyonight" height="165"/>
 </p>
+
+## 🐍 Grafik Kontribusi
+<img src="https://raw.githubusercontent.com/ismailtgr/ismailtgr/output/github-contribution-grid-snake.svg" width="100%"/>
 
 <!-- Footer bergelombang -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" width="100%"/>
