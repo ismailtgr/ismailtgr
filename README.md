@@ -1,9 +1,9 @@
 <!-- Header bergelombang animasi -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Halo,%20Saya%20NAMA%20KAMU&fontSize=40&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Halo,%20Saya%20ismailtgr&fontSize=40&animation=fadeIn" width="100%"/>
 
 <!-- Teks mengetik animasi -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=500&lines=Web+Developer;Mahasiswa+Teknik+Informatika;Suka+belajar+hal+baru!" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=500&lines=Web+Developer;Mahasiswa+Pendidikan+Teknologi+Informasi;Suka+belajar+hal+baru!" alt="Typing SVG" />
 </p>
 
 ## 👋 Tentang Saya
