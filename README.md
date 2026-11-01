@@ -19,10 +19,9 @@
 
 ## 📊 Statistik GitHub
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ismailtgr&show_icons=true&theme=tokyonight" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ismailtgr&layout=compact&theme=tokyonight" height="165"/>
+  <img src="https://raw.githubusercontent.com/ismailtgr/ismailtgr/main/profile-summary-card-output/tokyonight/3-stats.svg" height="165"/>
+  <img src="https://raw.githubusercontent.com/ismailtgr/ismailtgr/main/profile-summary-card-output/tokyonight/2-most-commit-language.svg" height="165"/>
 </p>
-
 ## 🐍 Grafik Kontribusi
 <img src="https://raw.githubusercontent.com/ismailtgr/ismailtgr/output/github-contribution-grid-snake.svg" width="100%"/>
 
